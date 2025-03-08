@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t1a3dyNWVxOXdxNG9mNGo3cDA1a3J1MXM3YjRhYW13Z3hueGFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5dDtpbmwwpnx5hk6m/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtwcHR1NDd5bWd5cWZ4c2E0aDlrbng5dDBkY25zaXVqa2Jxd2wzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=MariamSawera&style=flat-square&color=blue" alt=""/>
 
