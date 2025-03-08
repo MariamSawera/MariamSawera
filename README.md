@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @MariamSawera
-- 👀 I’m interested in cyber security and full stack.
-- 🌱 I’m currently learning IT.
-- 💞️ I’m looking to collaborate on any type of projects that help me improve my Programming skills and give me knowledge.
-- 📩 you can contact me on mariamsawera@gmail.com
+# Hi there, I'm Mariam Sawera! 👋
 
-<!---
-MariamSawera/MariamSawera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Web Developer | Data Enthusiast | IT Student**   
+🚀 Passionate about Full-Stack Development & AI  
+🎓 Studying at University of Sindh  
+
+🔧 **Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariamsawera)  
+---
+⭐️ **Fun Fact:** I love spicy food & cats! 🐱🌶️  
