@@ -4,7 +4,13 @@
 <img src="https://komarev.com/ghpvc/?username=MariamSawera&style=flat-square&color=blue" alt=""/>
 
 
-# Hi there, I'm Mariam Sawera! 👋
+# Hi there, I'm Mariam Sawera!
+<h1>
+  Hi there 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+  I'm Mariam Sawera!
+</h1>
+
 
 💻 **Web Developer | Data Enthusiast | IT Student**   
 🚀 Passionate about Full-Stack Development & AI  
