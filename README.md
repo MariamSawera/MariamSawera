@@ -48,4 +48,5 @@
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariamsawera)  
 ---
-⭐️ **Fun Fact:** I love spicy food & cats! 🐱🌶️  
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-MariamSawera&theme=dark&background=000000)](https://git.io/streak-stats)
