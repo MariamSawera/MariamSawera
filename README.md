@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhveHo0ZjVydWVmazhkN2x5Z3BiZXo5ZXY5YTRraXdxMW8xN24xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif"/>
+</div>
+
+
 # Hi there, I'm Mariam Sawera! 👋
 
 💻 **Web Developer | Data Enthusiast | IT Student**   
