@@ -10,6 +10,11 @@
   I'm Mariam Sawera!
 </h1>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB4Y3g0NWU4MHB4djBhcnc0ajRxdnRhb212OGVwd2FiYnlkZDU4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QPUwZQSbYbt7gjjifj/giphy.gif"/>
+</div>
+
+
 
 💻 **Web Developer | Data Enthusiast | IT Student**   
 🚀 Passionate about Full-Stack Development & AI  
