@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t1a3dyNWVxOXdxNG9mNGo3cDA1a3J1MXM3YjRhYW13Z3hueGFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5dDtpbmwwpnx5hk6m/giphy.gif"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=MariamSawera&style=flat-square&color=blue" alt=""/>
 
 
 # Hi there, I'm Mariam Sawera! 👋
