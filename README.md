@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=ecf05e47hk1e9rb127kc0drqhjx9fks49p007xwqli9eq98a&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200px" />
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mariamsawera">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
