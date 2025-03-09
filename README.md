@@ -14,6 +14,7 @@
   </a>
 </div>
 
+
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=MariamSawera&style=flat-square&color=blue" alt="view counter"/>
 </div>
@@ -28,12 +29,21 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZ3aHAydWpxd3E3YnVlMHpkMWkyODdhNGhmdWR6ajRwbXh0dGt6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09aV48vL6yTQva150l/giphy.gif"/>
 </div>
 
+---
 
+### :woman_technologist: About Me :
 
-💻 **Web Developer | Cloud Enthusiast | IT Student**   
-🚀 Passionate about Full-Stack Development & AI  
-🎓 Studying at University of Sindh  
+- :telescope: I am passionate about Full-Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  & AI, contributing to frontend and backend for building web applications.
 
+- :seedling: Curious about learning and exploring different domains such as Cloud Computing.
+
+- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+ 
+- :student: Studying at University of Sindh  
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariamsawera)
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
