@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mariamsawera">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mariamsawera@gmail.com">
+  <a href="mailto:mariamsawera@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="#">
